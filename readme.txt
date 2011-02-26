@@ -14,6 +14,8 @@ Donate link:		http://wesleytodd.com/contact
 
 == Description ==
 
+**Sorry to those of you who downloaded this plugin before I had added the files to the repo.  But now they are avaliable and ready to help you organize those uploads.
+
 A very simple plugin that organizes uploads into folders based on the current user id.
 
 Example:
